@@ -15,8 +15,9 @@ Here you can find a list of the programming languages I have used in the last fe
 * JavaScript 🎲
 * HTML 🎲
 * CSS 🎲
+* SQL 🎲
 
 ### Legend:
 📖 Learnt/used in a course (university)
-🎲 Learnt/used in a for-fun project (on my own)
+🎲 Learnt/used in a for-fun project (or on my own)
 ⏫ High level of knowledge
