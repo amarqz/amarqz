@@ -1,23 +1,24 @@
-### Welcome to my GitHub Profile 👋
+<h1 align="center">Hi, this is Antonio! 👋</h1>
+<h3 align="center">Robotics & software engineer based in Spain</h3>
 
-This is the place where I store some of the code I have written these last years.
+# 💻 Stack
+ - Back-end development: _Python_, _TypeScript_, _Java_, _C#_
+ - Front-end development: _Next.js_ (_React + TypeScript_), _Vue.js_
+ - Database Management: _SQL_ (PostgreSQL, Teradata, Oracle)
+ - _Docker_ & _Linux_
+ - Data Analysis: _Python ↔ Pandas_ and _MATLAB_
+ - Robotics: _ROS2_
+ - **SOLID** principles
+ - *Scrum* and Agile
 
-I really do enjoy coding. That is the reason why most of the code I published is part of for-fun projects or activities.
+# 💡 Interests
+ - Playing music 🎷
+ - Videogames
+ - Side-projects development
+ - Cooking
 
-## Coding languages:
-Here you can find a list of the programming languages I have used in the last few years.
+<h2 align="center">🤝 Let's Connect!</h2>
 
-* MATLAB 📖⏫
-* Simulink 📖⏫
-* Python 📖🎲⏫
-* C++ 📖
-* C# 📖
-* JavaScript 🎲
-* HTML 🎲
-* CSS 🎲
-* SQL 🎲
+[LinkedIn](https://www.linkedin.com/in/antoniomarquezpicon)
 
-### Legend:
-📖 Learnt/used in a course (university)
-🎲 Learnt/used in a for-fun project (or on my own)
-⏫ High level of knowledge
+[Portfolio (WIP)](https://github.com/amarqz/)
