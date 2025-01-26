@@ -21,4 +21,4 @@
 
 [My LinkedIn profile! ✔️](https://www.linkedin.com/in/antoniomarquezpicon)
 
-[Visit my portfolio! 📝](https://github.com/amarqz/)
+[Visit my portfolio! 📝](https://amarqz.dev)
