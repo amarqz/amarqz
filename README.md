@@ -19,6 +19,6 @@
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
-[LinkedIn](https://www.linkedin.com/in/antoniomarquezpicon)
+[My LinkedIn profile! ✔️](https://www.linkedin.com/in/antoniomarquezpicon)
 
-[Portfolio (WIP)](https://github.com/amarqz/)
+[Visit my portfolio! 📝](https://github.com/amarqz/)
